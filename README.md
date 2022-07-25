@@ -27,6 +27,6 @@ code .
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi deeğiştirmek istediğinizi tartışmak için bir konu açınız
 
-##s License
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
